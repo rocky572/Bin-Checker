@@ -9,7 +9,7 @@ error_reporting(0);
 set_time_limit(0);
 
 flush();
-$API_KEY = 'Your bot token'; //Your token
+$API_KEY = '1497430749:AAFaMOOYBl9fwPko-lTLrkySgooipCMKYRc'; //Your token
 ##------------------------------##
 define('API_KEY',$API_KEY);
 function bot($method,$datas=[]){
@@ -97,7 +97,7 @@ bot('sendmessage', [
 }
 }
 /*
-BY:- @BenchamXD
+BY:- @Pirated143
 
-CHANNEL:- @IndusBots
+CHANNEL:- @Bot_Gram_Developers
 */
