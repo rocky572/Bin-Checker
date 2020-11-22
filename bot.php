@@ -51,7 +51,7 @@ bot('sendmessage', [
 
 Use*** `/bin xxxxx` ***to check the bin.
 
-You can also make a bot like this from here:- https://github.com/BenchamXd/Bin-Checker***",
+You can also make a bot like this from here:- https://github.com/rocky572/Bin-Checker***",
 'parse_mode'=>"MarkDown",
 ]);
 if(strpos($text,"/bin") !== false){ 
@@ -99,5 +99,5 @@ bot('sendmessage', [
 /*
 BY:- @Pirated143
 
-CHANNEL:- @Bot_Gram_Developers
+CHANNEL:- @Bot_Gram_Developers Bot Maker And Credit To @indusbots
 */
